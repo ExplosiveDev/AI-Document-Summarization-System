@@ -56,6 +56,8 @@ The story of Robinson Crusoe is told in a series of novels, starting with The Ho
 --- Summarized text ---
 
 The story of Robinson Crusoe is based on a novel by the same name written in 17th century England. The book was written by Henry VIII and published in 1837. It is about a young boy who goes to sea with his father to find water, but ends up being eaten by a wild beast. The author describes how he tried to kill the beast, but was unable to do so. He then decided to cut off the creature's head with a hatchet, which he did with great skill.
+
 The story of Robinson Crusoe was written in the first half of the 19th century. It is a tale of a man stranded on a ship, trying to find his way back to land. The story has been turned into a popular film, The Last Voyage, starring Tom Hanks
+
 The story of Robinson Crusoe is told in a series of novels, starting with The Hobbit. The novel was written by Henry James, and published in 1851. It is the first novel to be published in English since the publication of ‘The Hobbit
 Keyboard interruption in main thread... closing server.
