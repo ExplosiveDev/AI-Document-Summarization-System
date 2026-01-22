@@ -13,13 +13,16 @@ Integrated LangChain Text Splitters for intelligent text segmentation with overl
 
 Built an interactive Gradio UI featuring real-time processing progress visualization.
 
-<img width="900" height="450" alt="1" src="https://github.com/user-attachments/assets/2672af41-f24c-4d38-b71a-e6857764e426" />
-<img width="400" height="230" alt="4" src="https://github.com/user-attachments/assets/65535314-a58a-4c87-be21-1d5af090f3a3" />
-<img width="400" height="230" alt="3" src="https://github.com/user-attachments/assets/097055ae-448d-4be0-9f94-6c8858b9b19b" />
-<img width="400" height="230" alt="2" src="https://github.com/user-attachments/assets/1473cb50-f950-49cb-94af-7c89c6103af4" />
-<img width="900" height="450" alt="5" src="https://github.com/user-attachments/assets/d3df2628-7bca-4ab8-8510-b8e572b5c8e9" />
+<img width="1919" height="924" alt="1" src="https://github.com/user-attachments/assets/f3559ad9-6f44-4d60-8625-bcefa5f804b4" />
 
-<img width="1126" height="765" alt="Diagram" src="https://github.com/user-attachments/assets/fce6f21a-004a-4adf-a289-14101615414a" />
+
+<img width="900" height="450" alt="5" src="https://github.com/user-attachments/assets/d3df2628-7bca-4ab8-8510-b8e572b5c8e9" />
+<img width="691" height="283" alt="4" src="https://github.com/user-attachments/assets/42b7078e-f5d3-4883-aab2-2f7be1a15dee" />
+<img width="691" height="280" alt="3" src="https://github.com/user-attachments/assets/dc1326aa-b8fd-419c-b1fa-f3bc500f1d27" />
+<img width="691" height="280" alt="2" src="https://github.com/user-attachments/assets/c727232b-70a7-411c-829b-0aae4f3ca76a" />
+<img width="1919" height="892" alt="5" src="https://github.com/user-attachments/assets/f0e82e43-f93d-4422-8047-f4f534f418bf" />
+
+
 With this infrastructure, I can process any text with any size in English.
 
 
