@@ -1,17 +1,17 @@
 # AI Document Summarization System (Map-Reduce Architecture)
 Stack: Python, PyTorch, Hugging Face Transformers, LangChain, PyMuPDF
 
-Developed an abstractive summarization system for long-form PDF documents (books) based on BART/mT5 models and Transformer architecture.
+• Developed an abstractive summarization system for long-form PDF documents (books) based on BART/mT5 models and Transformer architecture.
 
-Implemented a hierarchical recursive summarization algorithm (Map-Reduce), enabling the processing of unlimited text volume while maintaining contextual integrity.
+• Implemented a hierarchical recursive summarization algorithm (Map-Reduce), enabling the processing of unlimited text volume while maintaining contextual integrity.
 
-Optimized inference stability and factual accuracy by fine-tuning stochastic decoding parameters, including Temperature (to control randomness) and Top-p (Nucleus Sampling) to filter low-probability tokens and reduce hallucinations.
+• Optimized inference stability and factual accuracy by fine-tuning stochastic decoding parameters, including Temperature (to control randomness) and Top-p (Nucleus Sampling) to filter low-probability tokens and reduce hallucinations.
 
-Optimized VRAM usage by 70% through 4-bit quantization (BitsAndBytes), allowing LLM deployment on consumer-grade GPUs.
+• Optimized VRAM usage by 70% through 4-bit quantization (BitsAndBytes), allowing LLM deployment on consumer-grade GPUs.
 
-Integrated LangChain Text Splitters for intelligent text segmentation with overlapping chunks to minimize data loss at boundaries.
+• Integrated LangChain Text Splitters for intelligent text segmentation with overlapping chunks to minimize data loss at boundaries.
 
-Built an interactive Gradio UI featuring real-time processing progress visualization.
+• Built an interactive Gradio UI featuring real-time processing progress visualization.
 
 
 <img width="900" height="450" alt="1" src="https://github.com/user-attachments/assets/afaf2e9a-3542-4d5f-8a4d-2bb92eb3f9f5" />
